@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/Projects/poi-3.0.1-FINAL.jar"/>
+	<classpathentry kind="lib" path="G:/Projects/StrutsTut/WebRoot/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="G:/Projects/StrutsTut/WebRoot/WEB-INF/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="G:/Projects/StrutsTut/WebRoot/WEB-INF/lib/jid3lib-0.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
